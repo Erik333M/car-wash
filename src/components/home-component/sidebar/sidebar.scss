@@ -1,0 +1,16 @@
+.side-component {
+    width: 300px;
+    background-color: white;
+    height: 100%;
+    div {
+     padding: 15px;   
+    a {
+        color: black;
+        text-decoration: none;
+        text-transform: capitalize;
+        &:hover{
+            opacity: .5;
+        }
+    }
+}
+}
